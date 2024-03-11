@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: PartyRaidMembers
+## Notes: An addon to get all party and raid members' names and print them when a minimap button is clicked.
+## Author: YourName
+## Version: 1.0
+## SavedVariables: PartyRaidMembersDB
+
+# Addon files
+index.lua
